@@ -1,0 +1,5 @@
+Este es el primer archivo creado.
+
+Fue creado con el fin de hacer diferentes pruebas en git
+
+gracias por leer este archivo
